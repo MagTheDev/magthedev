@@ -1,12 +1,16 @@
-## Hello there, I'm Jacob - aka [Mag][website]
+## 👋 Hello there, I'm Jacob - aka [Mag][website]
 
-### I'm a Student, Developer, and a Rustacean 🦀
+### I'm a Student, Backend Developer, and a Rustacean 🦀
 - 🔭 I’m currently working on RIIR
 - 🌱 I’m currently learning React + Rocket.rs
 - 😄 Pronouns: He / Him
 - ⚡ Fun fact: I love to play guitar
 
+
 [![My Guthub Stats](https://github-readme-stats.vercel.app/api?username=MagTheDev&count_private=true&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+
+### My Projects
+- [Advent Challenge][https://github.com/7274-dev/AdventnaVyzva-GlobalBackend]
 
 [website]: https://magthe.dev
 <!--
