@@ -1,6 +1,6 @@
-### Hello there, I'm Jacob - aka [Mag][website]
+## Hello there, I'm Jacob - aka [Mag][website]
 
-## I'm a Student, Developer, and a Rustacean 🦀
+### I'm a Student, Developer, and a Rustacean 🦀
 - 🔭 I’m currently working on RIIR
 - 🌱 I’m currently learning React + Rocket.rs
 - 😄 Pronouns: He / Him
