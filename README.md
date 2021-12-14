@@ -10,7 +10,7 @@
 [![My Guthub Stats](https://github-readme-stats.vercel.app/api?username=MagTheDev&count_private=true&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
 ### My Projects
-- [Advent Challenge][https://github.com/7274-dev/AdventnaVyzva-GlobalBackend]
+- Advent Challenge - https://github.com/7274-dev/AdventnaVyzva-GlobalBackend
 
 [website]: https://magthe.dev
 <!--
