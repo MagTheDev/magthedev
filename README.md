@@ -1,4 +1,4 @@
-## 👋 Hello there, I'm Jacob - aka [Mag][website]
+# 👋 Hello there, I'm Jacob - aka [Mag][website]
 
 ### I'm a Student, Backend Developer, and a Rustacean 🦀
 - 🔭 I’m currently working on RIIR
