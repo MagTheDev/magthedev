@@ -1,8 +1,14 @@
-### Hello there 👋
-#### My name is Jacob and i ❤️ **Rust**
+### Hello there, I'm Jacob - aka [Mag][website]
+
+## I'm a Student, Developer, and a Rustacean 🦀
+- 🔭 I’m currently working on RIIR
+- 🌱 I’m currently learning React + Rocket.rs
+- 😄 Pronouns: He / Him
+- ⚡ Fun fact: I love to play guitar
 
 [![My Guthub Stats](https://github-readme-stats.vercel.app/api?username=MagTheDev&count_private=true&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
+[website]: https://magthe.dev
 <!--
 **MagTheDev/magthedev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
