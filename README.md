@@ -2,7 +2,7 @@
 
 ### I'm a Student, Backend Developer, and a Rustacean 🦀
 - 🔭 I’m currently working on RIIR
-- 🌱 I’m currently learning React + Rocket.rs
+- 🌱 I’m currently learning Vue3
 - 😄 Pronouns: He / Him
 - ⚡ Fun fact: I love to play guitar
 
