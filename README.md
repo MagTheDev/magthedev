@@ -7,7 +7,7 @@
 - ⚡ Fun fact: I love to play guitar
 
 
-[![My Guthub Stats](https://github-readme-stats.vercel.app/api?username=MagTheDev&count_private=true&show_icons=true&theme=transparent&bg_color=18181B&border_color=FE0000&text_color=FAFAFA&title_color=FE0000&icon_color=FE0000)](https://github.com/anuraghazra/github-readme-stats)
+[![My Guthub Stats](https://github-readme-stats.vercel.app/api?username=MagTheDev&count_private=true&show_icons=true&theme=transparent&bg_color=18181B&border_color=f77f00&text_color=FAFAFA&title_color=f77f00&icon_color=f77f000)](https://github.com/anuraghazra/github-readme-stats)
 
 ### My Projects
 - Advent Challenge - https://github.com/7274-dev/AdventnaVyzva-GlobalBackend
